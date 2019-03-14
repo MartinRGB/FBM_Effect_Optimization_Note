@@ -19,3 +19,5 @@ gpu-based effect optimization
 [A Liquid Cloud](https://play.google.com/store/apps/details?id=com.formisk.aliquidcloud.free&hl=en_US)
 
 [Nested FBM](https://www.shadertoy.com/view/MdSfDy)
+
+[Blend Mode](https://github.com/patriciogonzalezvivo/thebookofshaders/blob/master/16/blend.frag)

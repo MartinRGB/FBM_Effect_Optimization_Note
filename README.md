@@ -8,6 +8,7 @@ gpu-based effect optimization
 
 - 优化过程中的一些经验总结
 
+[http://www.martinrgb.com/blog/#/FBM]([总结]FBM 实践与优化心得 (上） —— WebGL 篇)
 
 ## 参考
 
